@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arrudaz
 - 👀 I’m interested in Java ☕ and C Sharp C#
-- 🌱 I’m currently learning I.T in Senac SP(Brazil), where I Learned C# and SQLServer, and a little bit about HTML, CSS, Javascript and PHP. 
+- 🌱 I’m currently learning I.T in Senac SP(Brazil), where I learned C# and SQLServer, and a little bit about HTML, CSS, Javascript and PHP. 
 - 💞️ I'm looking to collaborate on small projects.
 - 📫 How to reach me? For here!
 
