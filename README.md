@@ -4,4 +4,4 @@
 - 💞️ I'm looking to collaborate on small projects.
 - 📫 How to reach me? Right here!
 
-    [![My Skills](https://skillicons.dev/icons?i=arch,figma,html,css,js,cs,java,react,mysql,postman,obsidian,vscode)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=arch,figma,html,css,js,cs,java,react,mysql,postman,obsidian,vscode,dotnet)](https://skillicons.dev)
